@@ -1,7 +1,7 @@
 # Hacktoberfest
 
 ## Summary
-[Hacktoberfest](https://hacktoberfest.com/) is an annual worldwide competition throughout October to encourage code and non-code commits contributions to open source repos.
+[Hacktoberfest](https://hacktoberfest.com/) is an annual worldwide competition throughout October to encourage code and non-code contributions to open source repos.
 
 Their official [contribution section](https://hacktoberfest.com/participation/#contributors) states:
 > Register anytime between September 26 and October 31
