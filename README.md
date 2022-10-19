@@ -4,17 +4,17 @@
 [Hacktoberfest](https://hacktoberfest.com/) is an annual worldwide competition throughout October to encourage code and non-code contributions to open source repos.
 
 Their official [contribution section](https://hacktoberfest.com/participation/#contributors) states:
-> Register anytime between September 26 and October 31
+> Register anytime between September 26th and October 31st
 > 
 > Pull requests can be made in any GitHub or GitLab hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
 > 
 > Project maintainers must accept your pull/merge requests for them to count toward your total
 > 
-> Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
+> Have 4 pull/merge requests accepted between October 1st and October 31st to complete Hacktoberfest
 > 
-> The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
+> The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: A tree planted in their name -or- The Hacktoberfest 2022 t-shirt.
 
-This repo keeps track of [Techlahoma's](https://www.techlahoma.org/) contributions to the competion.
+This repo keeps track of [Techlahoma's](https://www.techlahoma.org/) contributions to the competition.
 
 
 **Table of Contents**
