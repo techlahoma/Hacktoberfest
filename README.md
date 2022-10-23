@@ -19,9 +19,10 @@ This repo keeps track of [Techlahoma's](https://www.techlahoma.org/) contributio
 
 **Table of Contents**
 * [Hacktoberfest](#hacktoberfest)
-  * [Summary](#summary)
+  * [Summary](#summary)https://github.com/Hacampbe/Hacktoberfest.git
   * [Setup](#setup)
   * [Usage](#usage)
+  * [Low or Non-Code Contributions](#low-or-non-code-contributions)
   * [TODO](#todo)
   * [Futher Reading](#futher-reading)
 
@@ -37,6 +38,30 @@ This repo keeps track of [Techlahoma's](https://www.techlahoma.org/) contributio
     * Configure formatting (e.g., `yaml`, `tf`, `py`)
     * Make sure the `.editorconfig` file is either in the top-level directory
     of the repo or in your `$HOME` directory (`root = true`)
+
+## Low or Non-Code Contributions
+
+Hacktoberfest is allowing [low or non-code contributions](https://hacktoberfest.com/about/#low-or-non-code) which includes:
+
+* Talks or presentations
+* Technical blog posts
+* Podcasts
+* Case studies
+* Social media
+
+These contributions must be made in the month of October 2022.
+
+### How to Contribute
+
+Create a new `your_contribution_title.yaml` file into the `/advocacy` with the following format:
+
+```
+name: John Smith
+title: Here is my talk/podcast/etc. post title.
+url: https://example.com/my-dash-blog-post
+date: 2022-10-31
+description: Here is a brief description and any supplemental information for my talk/podcast/etc.
+```
 
 ## TODO
 
