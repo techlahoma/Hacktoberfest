@@ -1,0 +1,17 @@
+name: Aaron Krauss
+title: Continuous Deployment with GitOps
+url: https://innotechok.com/
+date: 2022-10-19
+description: >
+  GitOps is a new, secure, and efficient process for creating
+  continuous deployment pipelines, made possible thanks modern
+  container orchestration tools like Kubernetes. Traditionally,
+  to configure continuous deployment, you would need to 'poke in
+  hole' into your production application by sharing your
+  credentials with a third party continuous integration provider
+  like GitHub to trigger the deployment; with GitOps, the
+  management of continuous deployment shifts back to your
+  own production platform, which will instead detect when and how
+  it should handle deployment. In this talk, we'll specifically
+  use Flux - a leading GitOps tool - to discuss specifics and a
+  fun demo.
