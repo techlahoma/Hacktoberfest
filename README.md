@@ -19,7 +19,7 @@ This repo keeps track of [Techlahoma's](https://www.techlahoma.org/) contributio
 
 **Table of Contents**
 * [Hacktoberfest](#hacktoberfest)
-  * [Summary](#summary)https://github.com/Hacampbe/Hacktoberfest.git
+  * [Summary](#summary)
   * [Setup](#setup)
   * [Usage](#usage)
   * [Low or Non-Code Contributions](#low-or-non-code-contributions)
