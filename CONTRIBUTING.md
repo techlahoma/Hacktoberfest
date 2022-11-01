@@ -1,4 +1,4 @@
-# Welcome to Techlahoma's Hacktoberfest contribution guide!
+# Welcome to Techlahoma's Hacktoberfest Contribution guide!
 
 Thank you for stopping by. Please read the Code of Conduct linked below.
 
@@ -9,11 +9,11 @@ Thank you for stopping by. Please read the Code of Conduct linked below.
 - Suggest improvements
 
 ## Code of Conduct
-[Here](https://www.techlahoma.org/code-of-conduct) is Techlahoma's code of conduct that needs to be followed to keep our community approachable and respectable.
+[Here](https://www.techlahoma.org/code-of-conduct) is Techlahoma's Code of Conduct that needs to be followed to keep our community approachable and respectable.
 
 ## Resources
-Here is a guide to help you use git and contribute to Techlahoma repos.
+Here is a guide to help you use Git and contribute to Techlahoma repos.
 [Guide to Git](https://github.com/kacollins/git-resources)
 
-## Need help of have questions?
-Please reach out on the techlahoma [slack](https://slack.techlahoma.org/).
+## Need help or have questions?
+Please reach out on the Techlahoma [Slack](https://slack.techlahoma.org/).
